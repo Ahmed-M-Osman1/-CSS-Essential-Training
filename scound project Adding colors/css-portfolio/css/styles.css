@@ -1,0 +1,31 @@
+
+/* Global style  */
+body {
+  color: #343434;
+}
+
+img {
+  width: 300px;
+}
+
+/* Profile */
+header {
+  background: #2f3061;
+  color: #f7fff7;
+}
+
+/* project */
+  .project{
+    background: #f7fff7;
+  }
+
+/* work-experiance */
+.work-experiance{
+  background: #A1c6d7;
+}  
+
+/* footer */
+footer{
+  background: #343434;
+  color: #f7fff7;
+}  
